@@ -6,4 +6,4 @@ A simple project to practice a few git/github workflows.  Update this file as in
 
 # Merged PR 
 
-[https://github.com/cs-uh-2012-spring26/i1-git-practice-arjuni14/pull/3](url)
+[[https://github.com/cs-uh-2012-spring26/i1-git-practice-arjuni14/pull/3]](https://github.com/cs-uh-2012-spring26/i1-git-practice-arjuni14/pull/3)
